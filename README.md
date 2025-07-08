@@ -42,7 +42,9 @@ This project helped me connect environmental awareness with technical skills in 
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deniz-efe-karacakaya-44858531b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deniz-efe-karacakaya-44858531b)  
+[![Gmail](https://img.shields.io/badge/Gmail-Mail-red?style=flat-square&logo=gmail)](mailto:denizefekaracakaya@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/denizefekaracakaya)
 
 ---
 
