@@ -50,12 +50,15 @@ This project helped me connect environmental awareness with technical skills in 
 
 ## 🛠️ Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Leafmap](https://img.shields.io/badge/-Leafmap-4CAF50?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)  
+![Leafmap](https://img.shields.io/badge/-Leafmap-4CAF50?style=for-the-badge)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+
 
 ---
 
